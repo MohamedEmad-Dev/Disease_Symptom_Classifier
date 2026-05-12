@@ -1,0 +1,222 @@
+disease,error
+Plague,no_symptoms
+Helicobacter pylori,no_symptoms
+Pasteurellosis,no_symptoms
+Nocardiosis,no_symptoms
+Actinomycosis,no_symptoms
+Gas gangrene,no_symptoms
+Staphylococcal infection,no_symptoms
+Endocarditis,no_symptoms
+Brain abscess,no_symptoms
+Psoas abscess,no_symptoms
+Liver abscess,no_symptoms
+Epstein-Barr virus,no_symptoms
+Cytomegalovirus infection,no_symptoms
+Rotavirus,no_symptoms
+Respiratory syncytial virus,no_symptoms
+Human metapneumovirus,no_symptoms
+Parainfluenza virus,no_symptoms
+Enterovirus,no_symptoms
+Coxsackievirus,no_symptoms
+Echovirus,no_symptoms
+Poliovirus,no_symptoms
+Hantavirus,no_symptoms
+Nipah virus,no_symptoms
+Lymphocytic choriomeningitis,no_symptoms
+Parvovirus B19,no_symptoms
+Trypanosomiasis,no_symptoms
+Balantidiasis,no_symptoms
+Clonorchiasis,no_symptoms
+Opisthorchiasis,no_symptoms
+Neurocysticercosis,no_symptoms
+Baylisascariasis,no_symptoms
+Gnathostomiasis,no_symptoms
+Angiostrongyliasis,no_symptoms
+Mansonelliasis,no_symptoms
+Aspergillosis,no_symptoms
+Histoplasmosis,no_symptoms
+Chromoblastomycosis,no_symptoms
+Tinea corporis,no_symptoms
+Tinea versicolor,no_symptoms
+Pneumocystis pneumonia,no_symptoms
+Pleural effusion,no_symptoms
+Lung abscess,no_symptoms
+Tracheitis,no_symptoms
+Silicosis,no_symptoms
+Coal workers pneumoconiosis,no_symptoms
+Obstructive sleep apnea,no_symptoms
+Sick sinus syndrome,no_symptoms
+Restrictive cardiomyopathy,no_symptoms
+Arrhythmogenic cardiomyopathy,no_symptoms
+Takayasu arteritis,no_symptoms
+Polyarteritis nodosa,no_symptoms
+Rheumatic heart disease,no_symptoms
+Pulmonary stenosis,no_symptoms
+Esophagitis,no_symptoms
+Inflammatory bowel disease,no_symptoms
+Intussusception,no_symptoms
+Malabsorption syndrome,no_symptoms
+Ischemic colitis,no_symptoms
+Colorectal polyps,no_symptoms
+Anal fistula,no_symptoms
+Perianal abscess,no_symptoms
+Rectal prolapse,no_symptoms
+Alcoholic liver disease,no_symptoms
+Budd-Chiari syndrome,no_symptoms
+Thyroiditis,no_symptoms
+Thyroid nodule,no_symptoms
+Thyroid storm,no_symptoms
+Dwarfism,no_symptoms
+Hyperprolactinemia,no_symptoms
+Multiple endocrine neoplasia,no_symptoms
+Hyperuricemia,no_symptoms
+Hyperlipidemia,no_symptoms
+Familial hypercholesterolemia,no_symptoms
+Galactosemia,no_symptoms
+Hemochromatosis,no_symptoms
+Fabry disease,no_symptoms
+Niemann-Pick disease,no_symptoms
+Mucopolysaccharidosis,no_symptoms
+Lewy body dementia,no_symptoms
+Frontotemporal dementia,no_symptoms
+Corticobasal degeneration,no_symptoms
+Diabetic neuropathy,no_symptoms
+Normal pressure hydrocephalus,no_symptoms
+Myelopathy,no_symptoms
+Delusional disorder,no_symptoms
+Brief psychotic disorder,no_symptoms
+Pica,no_symptoms
+Hypersomnia,no_symptoms
+Parasomnias,no_symptoms
+Sleepwalking,no_symptoms
+Stimulant use disorder,no_symptoms
+Gambling disorder,no_symptoms
+Kleptomania,no_symptoms
+Reactive arthritis,no_symptoms
+Juvenile idiopathic arthritis,no_symptoms
+Scleroderma,no_symptoms
+Polymyositis,no_symptoms
+Mixed connective tissue disease,no_symptoms
+Pseudogout,no_symptoms
+Osteomalacia,no_symptoms
+Achilles tendinopathy,no_symptoms
+Golfer elbow,summary_failed
+Flat feet,no_symptoms
+Kyphosis,no_symptoms
+Lordosis,no_symptoms
+Spondylolisthesis,no_symptoms
+Spondylolysis,no_symptoms
+Acute kidney injury,no_symptoms
+Glomerulonephritis,no_symptoms
+IgA nephropathy,no_symptoms
+Membranous nephropathy,no_symptoms
+Hypertensive nephropathy,no_symptoms
+Medullary sponge kidney,no_symptoms
+Renal tubular acidosis,no_symptoms
+Fanconi syndrome,no_symptoms
+Bartter syndrome,no_symptoms
+Gitelman syndrome,no_symptoms
+Hydronephrosis,no_symptoms
+Urinary incontinence,no_symptoms
+Vesicoureteral reflux,no_symptoms
+Neurogenic bladder,no_symptoms
+Hemolytic anemia,no_symptoms
+Spherocytosis,no_symptoms
+Polycythemia vera,no_symptoms
+Primary myelofibrosis,no_symptoms
+Hypercoagulable state,no_symptoms
+Factor V Leiden,no_symptoms
+Protein C deficiency,no_symptoms
+Antithrombin deficiency,no_symptoms
+Squamous cell carcinoma,no_symptoms
+Osteosarcoma,no_symptoms
+Rhabdomyosarcoma,no_symptoms
+Head and neck cancer,no_symptoms
+Laryngeal cancer,no_symptoms
+Nasopharyngeal cancer,no_symptoms
+Vaginal cancer,no_symptoms
+Adrenal cortical carcinoma,no_symptoms
+Carcinoid tumor,no_symptoms
+Gastrointestinal stromal tumor,no_symptoms
+Thymoma,no_symptoms
+Pemphigus vulgaris,no_symptoms
+Bullous pemphigoid,no_symptoms
+Dermatitis herpetiformis,no_symptoms
+Lichen planus,no_symptoms
+Lichen sclerosus,no_symptoms
+Androgenetic alopecia,no_symptoms
+Telogen effluvium,no_symptoms
+Carbuncle,no_symptoms
+Keloid,no_symptoms
+Hypertrophic scar,no_symptoms
+Stretch marks,no_symptoms
+Ichthyosis,no_symptoms
+Pediculosis,no_symptoms
+Cutaneous larva migrans,no_symptoms
+Ptosis,no_symptoms
+Orbital cellulitis,no_symptoms
+Endophthalmitis,no_symptoms
+Night blindness,no_symptoms
+Mastoiditis,no_symptoms
+Cholesteatoma,no_symptoms
+Deviated nasal septum,no_symptoms
+Adenoiditis,no_symptoms
+Retropharyngeal abscess,no_symptoms
+Hoarseness,no_symptoms
+Dysphonia,no_symptoms
+Central sleep apnea,no_symptoms
+Amenorrhea,no_symptoms
+Uterine polyps,no_symptoms
+Cervicitis,no_symptoms
+Gestational hypertension,no_symptoms
+Galactorrhea,no_symptoms
+Vaginal discharge,no_symptoms
+Pelvic organ prolapse,no_symptoms
+Stress urinary incontinence,no_symptoms
+Respiratory distress syndrome,no_symptoms
+Imperforate anus,no_symptoms
+Tracheoesophageal fistula,no_symptoms
+Ventricular septal defect,no_symptoms
+Transposition of great arteries,summary_failed
+Coarctation of aorta,no_symptoms
+Maple syrup urine disease,no_symptoms
+Organic acidemia,no_symptoms
+Urea cycle disorders,no_symptoms
+Glycogen storage disease,no_symptoms
+Mitochondrial disease,no_symptoms
+Drug allergy,no_symptoms
+Latex allergy,no_symptoms
+Insect sting allergy,no_symptoms
+Selective IgA deficiency,no_symptoms
+X-linked agammaglobulinemia,no_symptoms
+Severe combined immunodeficiency,no_symptoms
+Chronic granulomatous disease,no_symptoms
+Autoimmune polyendocrinopathy,no_symptoms
+Immune dysregulation syndrome,summary_failed
+Gingivitis,no_symptoms
+Dental abscess,no_symptoms
+Pulpitis,no_symptoms
+Apical periodontitis,no_symptoms
+Dry socket,no_symptoms
+Oral candidiasis,no_symptoms
+Oral lichen planus,no_symptoms
+Erythroplakia,no_symptoms
+Xerostomia,no_symptoms
+Sialadenitis,no_symptoms
+Salivary gland calculi,summary_failed
+Malocclusion,no_symptoms
+Occupational asthma,no_symptoms
+Byssinosis,no_symptoms
+Pesticide poisoning,no_symptoms
+Decompression sickness,no_symptoms
+Von Hippel-Lindau disease,no_symptoms
+Li-Fraumeni syndrome,no_symptoms
+BRCA mutation,no_symptoms
+Lynch syndrome,no_symptoms
+Familial adenomatous polyposis,no_symptoms
+Albinism,no_symptoms
+Fanconi anemia,no_symptoms
+Diamond-Blackfan anemia,no_symptoms
+Shwachman-Diamond syndrome,no_symptoms
+Dyskeratosis congenita,no_symptoms
+Autoinflammatory diseases,no_symptoms
